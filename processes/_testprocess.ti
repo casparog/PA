@@ -1,0 +1,3 @@
+#region Prolog
+LogOutput( 'INFO', 'test process!' | p1 );
+#endregion
